@@ -1,0 +1,35 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.service {
+    padding: 20px;
+}
+
+.service-topic {
+    color: #333;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 10px;
+}
+
+.card-topic {
+    color: #333;
+}
+
+.card-text {
+    color: #666;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
